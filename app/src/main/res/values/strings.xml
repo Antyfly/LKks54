@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Proba</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Имя Мужик Фамилия Таджик</string>
+    <string name="nav_header_subtitle">студент</string>
+    <string name="nav_header_prepod">преподаватель</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="link"><a href="https://www.ks54.ru/lk/forgot-password">Забыли пароль?</a></string>
+    <string name="student">Студент</string>
+    <string name="prepod">Преподаватель</string>
+    <string name="raspis">Расписание</string>
+    <string name="raspis_gr">Расписание группы</string>
+    <string name="info_stud">Информация о студенте</string>
+    <string name="spisok_gr">Список группы</string>
+    <string name="news" >Новости</string>
+    <string name="profile">Профиль</string>
+    <string name="uch_plan">Учебный план</string>
+    <string name="zachetki">Зачетки</string>
+    <string name="spravki">Справки</string>
+    <string name="number">Телефон</string>
+    <string name="email">E-mail</string>
+    <string name="group">Группа</string>
+    <string name="kurator">Куратор</string>
+    <string name="form_ob">Форма обучения</string>
+    <string name="osnova_ob">Основа обучения</string>
+    <string name="dop_obr">Дополнительное образование</string>
+    <string name="hintnew">Что нового?</string>
+
+    <string-array name="spravki">
+        <item> </item>
+        <item>Справка по требованию</item>
+        <item>Справка в военный комиссариат</item>
+    </string-array>
+
+    <string-array name="spravki2">
+        <item> </item>
+        <item>Справка с печатью (забрать из администрации)</item>
+        <item>Электронная справка(будет доступна для загрузки из личного кабинета)</item>
+    </string-array>
+</resources>
